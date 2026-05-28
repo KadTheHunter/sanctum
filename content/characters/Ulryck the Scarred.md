@@ -1,3 +1,54 @@
 ---
 title: Ulryck the Scarred
 ---
+
+> [!warning] Disambiguation
+> This page is about **Ulryck the Scarred**.  
+> For **Olryck the Scared**, see [[Olryck the Scared]].
+
+Ulryck [???], commonly known as **Ulryck the Scarred** was the brother of [[Olryck the Scared]]. He resided in Sanctum from [???] until his death in [???]. He is best known for his long meditations, and his practice of self-mortification.
+
+
+## Appearance
+
+Little is known of his appearance, save for a single record in Sanctum's [[Archive]] dated shortly before his death, that describes him as *"...covered head-to-toe in scar tissue, a walking mass of angry, callused flesh..."*. 
+
+
+
+## Personality & Traits
+
+Ulryck believed that pain brought clarity and enlightenment, and would frequently self-mortify. His preferred method involved the methodical laceration of his torso, typically with hot blades, though he was also known to enjoy grating, crucifixion, fracturing, and needling.
+
+Once a round of self-mortification was complete, he would often sink into a meditative trance or stupor, to mull over various thoughts and issues.
+
+### Relationships
+
+- **Olryck the Scared** — Uncle ([[Olryck the Scared]])
+  
+### Bibliography
+
+
+## Biography
+
+
+### Early Life
+
+
+### Sanctum Residency
+
+
+### Death
+On the [??] of [???] [????], Ulryck attempted to perform a surgical operation on himself to implant a device of his making, that would deliver an internal source of continuous pain. 
+
+This decision came after months of self-mortification sessions that increasingly failed to provide his accustomed level of pain, likely due to the acclimatization of his body.
+
+Midway through the operation, Ulryck unintentionally lacerated multiple internal organs whilst implanting the device, resulting in his death shortly thereafter.
+
+Attendants did not discover his corpse until nearly a week later, at which point it was tidied up as best they could, and interred in the [[Catacombs]].
+
+Voice Logs recovered from his Notes reveal that his dying words were *"I finally understand it... I understand it all!*, though what precisely Ulryck finally understood is unknown.
+
+
+## Notes
+
+- Dates are still provisional and subject to change.

@@ -1,5 +1,5 @@
 ---
-title: Olryck the Scared
+title: Level -2 "The Labs"
 ---
 
 > [!question] Under Construction

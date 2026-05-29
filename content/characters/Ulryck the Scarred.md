@@ -6,6 +6,9 @@ title: Ulryck the Scarred
 > This page is about **Ulryck the Scarred**.  
 > For **Olryck the Scared**, see [[Olryck the Scared]].
 
+> [!question] Under Construction
+> This page is lacking important content.
+
 Ulryck [???], commonly known as **Ulryck the Scarred** was the brother of [[Olryck the Scared]]. He resided in Sanctum from [???] until his death in [???]. He is best known for his long meditations, and his practice of self-mortification.
 
 
@@ -23,7 +26,7 @@ Once a round of self-mortification was complete, he would often sink into a medi
 
 ### Relationships
 
-- **Olryck the Scared** — Uncle ([[Olryck the Scared]])
+- **Olryck the Scared** — Uncle ([[Olryck the Scared]])[^1]
   
 ### Bibliography
 
@@ -52,3 +55,6 @@ Voice Logs recovered from his Notes reveal that his dying words were *"I finally
 ## Notes
 
 - Dates are still provisional and subject to change.
+
+
+[^1]: It is unclear if Olryck was actually related to Ulryck, though several accounts claim him to be a *"distant relative of Ulryck's father, Dagan".*

@@ -9,6 +9,20 @@ title: Ulryck the Scarred
 > [!question] Under Construction
 > This page is lacking important content.
 
+> [!infobox | no-icon]
+> 
+> # Ulryck the Scarred
+> 
+> | | |
+> | --- | --- |
+> | **Homeworld** | Sanctum |
+> | **Species** | Human |
+> | **Gender** | Male |
+> | **Height** | 1.85 meters |
+> | **Hair Color** | N/A |
+> | **Eye Color** | Hazel-Green |
+> | **Skin Color** | White |
+
 Ulryck [???], commonly known as **Ulryck the Scarred** was the brother of [[Olryck the Scared]]. He resided in Sanctum from [???] until his death in [???]. He is best known for his long meditations, and his practice of self-mortification.
 
 

@@ -1,9 +1,24 @@
 ---
-title: Kaddicus
+title: Kaddicus III
 ---
 
 > [!question] Under Construction
 > This page is lacking important content.
+
+> [!infobox | no-icon]
+> 
+> # Sir Kaddicus III
+> 
+> | | |
+> | --- | --- |
+> | **Homeworld** | Sanctum |
+> | **Nationality** | Sanctian |
+> | **Species** | Human |
+> | **Gender** | Male |
+> | **Height** | 1.91 meters |
+> | **Hair Color** | Dark Brown |
+> | **Eye Color** | Slate |
+> | **Skin Color** | White |
 
 ## Appearance
 

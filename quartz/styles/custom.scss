@@ -1,3 +1,31 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+@use "./custom/image-adjustments.scss";
+@use "./custom/callout-adjustments.scss";
+
+.callout[data-callout="infobox"] {
+  th {
+    display: none !important;
+  }
+
+  /* Add a top border to the table to separate it from the image above it */
+  table {
+    border-top: 1px solid var(--color-base-30, #a2a9b1) !important;
+  }
+  
+  /* Optional: ensure the first row of td elements looks good */
+  tr:first-child td {
+    border-top: 1px solid var(--color-base-30);
+  }
+  
+  /* --- 1. Hide Heading Link Icons & Fix Centering --- */
+  /* Hides the permalink/hover button next to headers */
+ 
+  a.internal.internal-link {
+    display: none !important;
+  }
+}
+
+

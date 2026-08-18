@@ -38,3 +38,5 @@ Ven has not yet joined Sanctum.
 
 ## Trivia
 - Ven's in-universe [[locations/sanctum/level 1/personal rooms/index|Personal Room]] is [[Room 1c]]
+
+[^1]: [[Kadalyst#Scholars]]

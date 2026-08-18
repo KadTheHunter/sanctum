@@ -1,5 +1,8 @@
 ---
-title: Kædykos
+title: Olivia Nightingale
+aliases:
+  - Olivia Perinsea
+quartz-properties: false
 ---
 
 > [!question] Under Construction
@@ -7,22 +10,26 @@ title: Kædykos
 
 > [!infobox | no-icon]
 > 
-> # Kædykos
+> # Olivia Nightingale
 > 
 > | | |
 > | --- | --- |
 > | **Homeworld** | Vesper Prime |
 > | **Nationality** | Vesperian |
+> | **Birth Name** | Olivia Perinsea |
+> | **Spouse** | [[Vesper Nightingale II]] |
 > | **Species** | Human |
-> | **Gender** | Male |
-> | **Height** | 1.83 meters |
-> | **Hair Color** | Brown |
-> | **Eye Color** | Green |
+> | **Gender** | Female |
+> | **Height** | 1.84 meters |
+> | **Hair Color** | Black |
+> | **Eye Color** |  |
 > | **Skin Color** | White |
+
+**Olivia Nightingale**
 
 ## Appearance
 
-## Personality and Traits
+## Personality & Traits
 
 ### Relationships
 
@@ -34,5 +41,4 @@ title: Kædykos
 
 ### Death
 
-## Trivia
-- Kædykos is one of the in-universe characters of [[Kadalyst]], the creator of [[locations/sanctum/index|Sanctum]]. See also: [[Kaddicus III]].
+## Notes

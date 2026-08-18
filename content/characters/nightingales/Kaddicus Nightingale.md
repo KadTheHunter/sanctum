@@ -1,24 +1,35 @@
 ---
-title: Kaddicus III
+title: Kaddicus Nightingale
+aliases:
+  - Kaedykos Nightingale III
+  - Kaedykos III
+quartz-properties: false
 ---
 
 > [!question] Under Construction
 > This page is lacking important content.
 
+> [!info] Regnal Name
+> *This article is about **Kaedykos Nightingale III**. For the history of the name and other holders of the title, see [[House Kaedykos]].*
+
 > [!infobox | no-icon]
 > 
-> # Sir Kaddicus III
+> # Kaddicus Nightingale
 > 
 > | | |
 > | --- | --- |
 > | **Homeworld** | Sanctum |
 > | **Nationality** | Sanctian |
+> | **Regnal Name** | Kaedykos |
+> | **Birth Name** | Kaddicus |
 > | **Species** | Human |
 > | **Gender** | Male |
 > | **Height** | 1.91 meters |
 > | **Hair Color** | Dark Brown |
 > | **Eye Color** | Slate |
 > | **Skin Color** | White |
+
+**Kaedykos Nightingale III** (born Kaddicus Nightingale)
 
 ## Appearance
 

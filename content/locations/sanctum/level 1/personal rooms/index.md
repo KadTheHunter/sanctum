@@ -2,6 +2,9 @@
 title: Personal Rooms
 ---
 
+> [!question] Under Construction
+> This page is lacking important content.
+
 Personal Rooms are private apartment suites for the current residents of Sanctum. 
 
 The most prestigious residents are granted rooms on the southern exterior of Sanctum, with views of the [[Southern Courtyard]] or the ocean. All other residents are granted interior rooms.

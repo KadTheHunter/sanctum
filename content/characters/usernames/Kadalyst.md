@@ -47,7 +47,7 @@ A number of players were involved in its creation besides Kadalyst, some of whom
 
 #### Kædykos Nebula
 
-The Kædykos Nebula was a lore project expanding on previously unpublished ideas regarding the [[Neurax Clones]], adding in a larger universe involving characters such as [[Kaedykos]], and locations such as [[Vesper Prime]], which have since been carried on to Sanctum as well.
+The Kædykos Nebula was a lore project expanding on previously unpublished ideas regarding the [[Neurax Clones]], adding in a larger universe involving characters such as [[Kaedykos Nightingale]], and locations such as [[Vesper Prime]], which have since been carried on to Sanctum as well.
 
 ### Present
 Kadalyst has been working on the Sanctum Build since 7 January 2025, and the Sanctum lore and wiki since June 2026. 
@@ -64,5 +64,5 @@ Some of the most notable connections are listed below:
 - [[paige9898]] — Friend
 
 ## Trivia
-- Kadalyst has two characters in the Sanctum universe, [[Kaddicus III]], and [[Kaedykos]]
+- Kadalyst has two characters in the Sanctum universe, [[Kaddicus Nightingale]], and [[Kaedykos Nightingale]]
 - Kadalyst's in-universe [[locations/sanctum/level 1/personal rooms/index|Personal Room]] is [[Room 0]]

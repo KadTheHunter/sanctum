@@ -1,8 +1,5 @@
 ---
-title: Olivia Nightingale
-aliases:
-  - Olivia Perinsea
-quartz-properties: false
+title: Bela Nightingale
 ---
 
 > [!question] Under Construction
@@ -10,22 +7,20 @@ quartz-properties: false
 
 > [!infobox | no-icon]
 > 
-> # Olivia Nightingale
+> # Bela Nightingale
 > 
 > | | |
 > | --- | --- |
 > | **Homeworld** | [[Vesper Prime]] |
 > | **Nationality** | Sanctian |
-> | **Birth Name** | Olivia Perinsea |
-> | **Spouse** | [[Vesper Nightingale II]] |
 > | **Species** | Human |
 > | **Gender** | Female |
-> | **Height** | 1.84 meters |
-> | **Hair Color** | Black |
+> | **Height** |  |
+> | **Hair Color** | Dark Brown |
 > | **Eye Color** |  |
 > | **Skin Color** | White |
 
-**Olivia Nightingale** (born **Olivia Perinsea**) is the wife of [[Vesper Nightingale II]], and the mother of Ana, Bela, and [[Vecter Nightingale]].
+**Bela Nightingale** is the daughter of [[Kaedykos Nightingale|Khad Nightingale]] and [[Olivia Nightingale]], and the sister of [[Ana Nightingale]]
 
 ## Appearance
 

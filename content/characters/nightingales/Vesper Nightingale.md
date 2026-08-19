@@ -18,8 +18,8 @@ quartz-properties: false
 > 
 > | | |
 > | --- | --- |
-> | **Homeworld** | Sanctum |
-> | **Nationality** | Sanctian |
+> | **Homeworld** |  |
+> | **Nationality** | Vesperian |
 > | **Regnal Name** | Vesper |
 > | **Birth Name** | Vesper |
 > | **Species** | Human |

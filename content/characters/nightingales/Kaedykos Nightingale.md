@@ -19,7 +19,7 @@ quartz-properties: false
 > 
 > | | |
 > | --- | --- |
-> | **Homeworld** | Vesper Prime |
+> | **Homeworld** | [[Vesper Prime]] |
 > | **Nationality** | Sanctian |
 > | **Regnal Name** | Kaedykos |
 > | **Birth Name** | Kaedykos |

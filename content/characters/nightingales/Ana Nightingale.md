@@ -1,8 +1,5 @@
 ---
-title: Luna Nightingale
-aliases: 
-  - Luna Skye
-quartz-properties: false
+title: Ana Nightingale
 ---
 
 > [!question] Under Construction
@@ -10,22 +7,20 @@ quartz-properties: false
 
 > [!infobox | no-icon]
 > 
-> # Luna Nightingale
+> # Ana Nightingale
 > 
 > | | |
 > | --- | --- |
-> | **Homeworld** | [[Lowlan IV]] |
+> | **Homeworld** | [[Vesper Prime]] |
 > | **Nationality** | Sanctian |
-> | **Birth Name** | Luna Skye |
-> | **Spouse** | [[Kaedykos Nightingale\|Khad Nightingale]] |
 > | **Species** | Human |
 > | **Gender** | Female |
 > | **Height** | 1.68 meters |
-> | **Hair Color** | Red |
+> | **Hair Color** | Silver |
 > | **Eye Color** | Bright Green |
 > | **Skin Color** | Pale White |
 
-**Luna Nightingale** (born **Luna Skye**) is the wife of [[Kaedykos Nightingale|Khad Nightingale]]
+**Ana Nightingale** is the daughter of [[Kaedykos Nightingale|Khad Nightingale]] and [[Olivia Nightingale]], and the sister of [[Bela Nightingale]]
 
 ## Appearance
 

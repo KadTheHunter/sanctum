@@ -17,7 +17,7 @@ quartz-properties: false
 > 
 > | | |
 > | --- | --- |
-> | **Homeworld** | Sanctum |
+> | **Homeworld** | [[Vesper Prime]] |
 > | **Nationality** | Sanctian |
 > | **Regnal Name** | Vesper |
 > | **Birth Name** | Vesper |

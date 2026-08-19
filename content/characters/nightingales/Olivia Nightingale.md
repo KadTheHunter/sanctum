@@ -25,7 +25,7 @@ quartz-properties: false
 > | **Eye Color** |  |
 > | **Skin Color** | White |
 
-**Olivia Nightingale** (born **Olivia Perinsea**) is the wife of [[Vesper Nightingale II]], and the mother of Ana, Bela, and [[Vecter Nightingale]].
+**Olivia Nightingale** (born **Olivia Perinsea**) is the wife of [[Vesper Nightingale II]], and the mother of [[Ana Nightingale]], [[Bela Nightingale]], and [[Vecter Nightingale]].
 
 ## Appearance
 

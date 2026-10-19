@@ -1,5 +1,5 @@
 ---
-title: Halls of Dioramas
+title: Isola
 ---
 
 > [!question] Under Construction

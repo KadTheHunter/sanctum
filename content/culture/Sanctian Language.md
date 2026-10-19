@@ -8,7 +8,7 @@ title: Sanctian (Language)
 > [!info] Disambiguation
 > *This article is about the **language** Sanctian. For the **people** Sanctian, see [[Sanctian People]].*
 
-The Sanctian language is the native language of the residents of [[locations/sanctum/index|Sanctum]].
+The Sanctian language is the native language of the residents of [[locations/null/sanctum/index|Sanctum]].
 
 It is a derivative of spoken English, with a morphology based around a triform moral axis, with many words having a Hallowed or Grievant form in addition to their base Neutral form.
 

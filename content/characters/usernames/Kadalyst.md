@@ -18,7 +18,7 @@ title: Kadalyst
 > | **Eye Color** | `[REDACTED]` |
 > | **Skin Color** | `[REDACTED]` |
 
-Kadalyst is the out-of-universe creator of [[locations/sanctum/index|Sanctum]]. He serves as the primary Builder and sole Lore Keeper, steadily expanding both the universe and Minecraft build.
+Kadalyst is the [[characters/usernames/index.html|username]] of the out-of-universe creator of [[locations/null/sanctum/index|Sanctum]]. He serves as the primary Builder and sole Lore Keeper, steadily expanding both the universe and Minecraft build.
 
 ## Contributions & Roles
 Kadalyst has designed and built the Sanctum complex in Minecraft, beginning work on 7 January 2025, and moving to [[Odyssey Freedom]] in June 2025.
@@ -47,12 +47,12 @@ A number of players were involved in its creation besides Kadalyst, some of whom
 
 #### Kædykos Nebula
 
-The Kædykos Nebula was a lore project expanding on previously unpublished ideas regarding the [[Neurax Clones]], adding in a larger universe involving characters such as [[Kaedykos Nightingale]], and locations such as [[Vesper Prime]], which have since been carried on to Sanctum as well.
+The Kædykos Nebula was a lore project expanding on previously unpublished ideas regarding the [[characters/neurax-clones/index|Neurax Clones]], adding in a larger universe involving characters such as [[Kaedykos Nightingale]], and locations such as [[Vesper Prime]], which have since been carried on to Sanctum as well.
 
 ### Present
 Kadalyst has been working on the Sanctum Build since 7 January 2025, and the Sanctum lore and wiki since June 2026. 
 
-Various other players, including [[beccaxoxo]], [[paige9898]], and [[videogamesm12]] have contributed, both by way of their [[locations/sanctum/level 1/personal rooms/index|Personal Rooms]], and by way of structural design, interior decor, or terrain shaping.
+Various other players, including [[beccaxoxo]], [[paige9898]], and [[videogamesm12]] have contributed, both by way of their [[locations/null/sanctum/level-1/personal-rooms/index|Personal Room]], and by way of structural design, interior decor, or terrain shaping.
 
 ## Connections
 Kadalyst is connected to most of the Sanctum residents and members, in a variety of ways.
@@ -65,4 +65,4 @@ Some of the most notable connections are listed below:
 
 ## Trivia
 - Kadalyst has two characters in the Sanctum universe, [[Kaddicus Nightingale]], and [[Kaedykos Nightingale]]
-- Kadalyst's in-universe [[locations/sanctum/level 1/personal rooms/index|Personal Room]] is [[Room 0]]
+- Kadalyst's in-universe [[locations/null/sanctum/level-1/personal-rooms/index|Personal Room]] is [[Room 0]]

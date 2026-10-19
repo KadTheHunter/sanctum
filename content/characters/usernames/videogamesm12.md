@@ -18,7 +18,7 @@ title: videogamesm12
 > | **Eye Color** | `[REDACTED]` |
 > | **Skin Color** | `[REDACTED]` |
 
-videogamesm12 is a current resident of [[locations/sanctum/|Sanctum]], invited to move in by [[Kadalyst]].
+videogamesm12 is the [[characters/usernames/index.html|username]] of a current resident of [[locations/null/sanctum/index|Sanctum]], invited to move in by [[Kadalyst]].
 
 ## Connections
 - [[FrutigerAnti]] — Friend
@@ -26,4 +26,4 @@ videogamesm12 is a current resident of [[locations/sanctum/|Sanctum]], invited t
 - [[Kadalyst]] — Friend, Colleague on [[Odyssey Freedom]]
 
 ## Trivia
-- Video's in-universe [[locations/sanctum/level 1/personal rooms/index|Personal Room]] is [[Room 3a]]
+- Video's in-universe [[locations/null/sanctum/level-1/personal-rooms/index|Personal Room]] is [[Room 3a]]

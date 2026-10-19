@@ -46,4 +46,4 @@ quartz-properties: false
 ### Death
 
 ## Trivia
-- Kædykos is one of the in-universe characters of [[Kadalyst]], the creator of [[locations/sanctum/index|Sanctum]]. See also: [[Kaddicus Nightingale]].
+- Kædykos is one of the in-universe characters of [[Kadalyst]], the creator of [[content/locations/null/sanctum/index|Sanctum]]. See also: [[Kaddicus Nightingale]].

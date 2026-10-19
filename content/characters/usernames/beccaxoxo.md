@@ -18,10 +18,10 @@ title: beccaxoxo
 > | **Eye Color** | `[REDACTED]` |
 > | **Skin Color** | `[REDACTED]` |
 
-beccaxoxo is a major contributor to the Minecraft build of Sanctum, particularly the interior decor, and has assisted in the design of much of Sanctum's structure, as well as its mountainous exterior.
+beccaxoxo is the [[characters/usernames/index.html|username]] of a major contributor to the Minecraft build of Sanctum, particularly the interior decor, and has assisted in the design of much of Sanctum's structure, as well as its mountainous exterior.
 
 ## Contributions & Roles
-Becca has contributed to nearly every room in Sanctum except for residents [[locations/sanctum/level 1/personal rooms/|Personal Rooms]].
+Becca has contributed to nearly every room in Sanctum except for residents [[locations/null/sanctum/level-1/personal-rooms/index|Personal Room]].
 
 ### Interior Decor
 The majority of Becca's contributions consist of interior design and decor, most notably on the following rooms:
@@ -57,7 +57,7 @@ Since then, she's made regular contributions, working to expand the build one ro
 - [[VentralArt38119]] — Friend
 
 ## Trivia
-- Becca's in-universe [[locations/sanctum/level 1/personal rooms/|Personal Room]] is [[Room 1b]]
+- Becca's in-universe [[locations/null/sanctum/level-1/personal-rooms/index|Personal Room]] is [[Room 1b]]
 - A porkchop renamed to "*Cooked Becca*" can be found in various fireplaces, fridges and kitchens. This is an easter egg referencing a since-forgotten inside joke from the Scholars[^1] project.
 
 [^1]: [[Kadalyst#Scholars]]

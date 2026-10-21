@@ -60,4 +60,4 @@ Since then, she's made regular contributions, working to expand the build one ro
 - Becca's in-universe [[locations/null/sanctum/level-1/personal-rooms/index|Personal Room]] is [[Room 1b]]
 - A porkchop renamed to "*Cooked Becca*" can be found in various fireplaces, fridges and kitchens. This is an easter egg referencing a since-forgotten inside joke from the Scholars[^1] project.
 
-[^1]: [[Kadalyst#Scholars]]
+[^1]: [[index#Scholars|Scholars]]

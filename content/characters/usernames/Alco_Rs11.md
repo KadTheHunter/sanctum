@@ -18,10 +18,10 @@ title: Alco_Rs11
 > | **Eye Color** | `[REDACTED]` |
 > | **Skin Color** | `[REDACTED]` |
 
-Alco_Rs11 is a current resident of [[locations/sanctum/|Sanctum]], invited to move in by [[Kadalyst]].
+Alco_Rs11 is the [[characters/usernames/index.html|username]] of a current resident of [[locations/null/sanctum/index|Sanctum]], invited to move in by [[Kadalyst]].
 
 ## Connections
 - [[videogamesm12]] — Friend, Colleague
 
 ## Trivia
-- Alco's in-universe [[locations/sanctum/level-1/personal-rooms/index.html|Personal Room]] is [[Room 4a]]
+- Alco's in-universe [[locations/null/sanctum/level-1/personal-rooms/index|Personal Room]] is [[Room 4a]]

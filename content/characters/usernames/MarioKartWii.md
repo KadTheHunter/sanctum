@@ -18,11 +18,11 @@ title: MarioKartWii
 > | **Eye Color** | `[REDACTED]` |
 > | **Skin Color** | `[REDACTED]` |
 
-MarioKartWii is a current resident of [[locations/sanctum/|Sanctum]], invited to move in by [[Kadalyst]].
+MarioKartWii is the [[characters/usernames/index.html|username]] of a current resident of [[locations/null/sanctum/index|Sanctum]], invited to move in by [[Kadalyst]].
 
 ## Connections
 - [[Kadalyst]] — Friend
 - [[FrutigerAnti]] — Friend
 
 ## Trivia
-- Mario's in-universe [[locations/sanctum/level 1/personal rooms/|Personal Room]] is [[Room 1a]]
+- Mario's in-universe [[locations/null/sanctum/level-1/personal-rooms/index|Personal Room]] is [[Room 1a]]

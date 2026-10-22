@@ -4,7 +4,7 @@ configuration:
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-  analytics: null
+  analytics: { provider: 'goatcounter', websiteId: 'kaddicus' }
   locale: en-US
   baseUrl: kadthehunter.github.io/sanctum
   ignorePatterns:
@@ -50,7 +50,7 @@ plugins:
         - filesystem
     order: 10
   - source: github:quartz-community/syntax-highlighting
-    enabled: true
+    enabled: false
     options:
       theme:
         light: github-light

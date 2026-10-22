@@ -1,11 +1,10 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Sanctum Wiki
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-  analytics:
-    provider: plausible
+  analytics: { provider: 'goatcounter', websiteId: 'kaddicus' }
   locale: en-US
   baseUrl: kadthehunter.github.io/sanctum
   ignorePatterns:
@@ -51,7 +50,7 @@ plugins:
         - filesystem
     order: 10
   - source: github:quartz-community/syntax-highlighting
-    enabled: true
+    enabled: false
     options:
       theme:
         light: github-light
@@ -260,9 +259,9 @@ plugins:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
       subdir: plugin
-    enabled: true
+    enabled: false
     options:
-      theme: default
+      theme: tokyo-night-storm
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:

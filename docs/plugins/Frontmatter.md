@@ -7,7 +7,6 @@ description: Parses frontmatter and displays note properties in a collapsible pa
 tags:
   - plugin/transformer
   - plugin/component
-publish: true
 enableToc: true
 image:
 repository: "[quartz-community/note-properties](https://github.com/quartz-community/note-properties)"

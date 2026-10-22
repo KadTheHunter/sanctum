@@ -149,7 +149,7 @@ plugins:
     enabled: true
   - source: github:quartz-community/tag-page
     enabled: true
-  - source: github:quartz-community/explorer
+  - source: "@quartz-community/explorer"
     enabled: true
     layout:
       position: left

@@ -1,5 +1,5 @@
 ---
-title: CandyOdayaka's Room
+title: Isola
 ---
 
 > [!question] Under Construction

@@ -20,7 +20,7 @@ title: VentralArt38119
 > | **Eye Color** | `[REDACTED]` |
 > | **Skin Color** | `[REDACTED]` |
 
-VentralArt38119 is a future member of [[locations/sanctum/|Sanctum]], invited to move in by [[Kadalyst]].
+VentralArt38119 is the [[characters/usernames/index.html|username]] of a future member of [[locations/null/sanctum/index|Sanctum]], invited to move in by [[Kadalyst]].
 
 ## Project Timeline
 
@@ -37,6 +37,6 @@ Ven has not yet joined Sanctum.
 - [[paige9898]] — Friend
 
 ## Trivia
-- Ven's in-universe [[locations/sanctum/level 1/personal rooms/index|Personal Room]] is [[Room 1c]]
+- Ven's in-universe [[locations/null/sanctum/level-1/personal-rooms/index|Personal Room]] is [[Room 1c]]
 
 [^1]: [[Kadalyst#Scholars]]

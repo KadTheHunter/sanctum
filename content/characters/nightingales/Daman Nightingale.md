@@ -29,7 +29,7 @@ quartz-properties: false
 > | **Eye Color** | Dark Green |
 > | **Skin Color** | White |
 
-**Daman Nightingale**
+**Daman Nightingale** is the son of [[Lowlan Nightingale]], the brother of [[Kaedykos Nightingale]] and twin brother of [[Vesper Nightingale II]].
 
 ## Appearance
 

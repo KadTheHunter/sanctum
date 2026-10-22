@@ -1,5 +1,5 @@
 ---
-title: Halls of Dioramas
+title: Maroon Meeting Room
 ---
 
 > [!question] Under Construction

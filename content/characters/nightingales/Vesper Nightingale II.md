@@ -29,7 +29,7 @@ quartz-properties: false
 > | **Eye Color** |  |
 > | **Skin Color** | White |
 
-**Vesper Nightingale II**
+**Vesper Nightingale II** is the son of [[Lowlan Nightingale]], the brother of [[Kaedykos Nightingale]] and twin brother of [[Daman Nightingale]].
 
 ## Appearance
 

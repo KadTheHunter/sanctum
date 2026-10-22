@@ -44,7 +44,7 @@ quartz-properties: false
 ### Sanctum Residency
 
 ## Trivia
-- Kaddicus is the nickname of [[Kadalyst]], the creator of [[locations/sanctum/index|Sanctum]], and one of his in-universe characters.
+- Kaddicus is the nickname of [[Kadalyst]], the creator of [[content/locations/null/sanctum/index|Sanctum]], and one of his in-universe characters.
 
 
 

@@ -222,8 +222,9 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/KadTheHunter/sanctum
+        Shouting into the Void: https://kadthehunter.github.io/
+        Kad's Media Ratings: https://kadthehunter.github.io/Media-Ratings
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer

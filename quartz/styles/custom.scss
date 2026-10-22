@@ -23,9 +23,8 @@
   /* --- 1. Hide Heading Link Icons & Fix Centering --- */
   /* Hides the permalink/hover button next to headers */
  
-  a.internal.internal-link {
+  h1 a.internal.internal-link {
     display: none !important;
   }
 }
-
 

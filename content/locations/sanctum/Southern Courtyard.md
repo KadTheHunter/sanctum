@@ -1,3 +1,0 @@
----
-title: Southern Courtyard
----

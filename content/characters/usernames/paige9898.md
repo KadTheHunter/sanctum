@@ -18,7 +18,7 @@ title: paige9898
 > | **Eye Color** | `[REDACTED]` |
 > | **Skin Color** | `[REDACTED]` |
 
-paige9898 is a current resident of [[locations/sanctum/|Sanctum]], invited to move in by [[Kadalyst]].
+paige9898 is the [[characters/usernames/index.html|username]] of a current resident of [[locations/null/sanctum/index|Sanctum]], invited to move in by [[Kadalyst]].
 
 ## Project Timeline
 
@@ -35,7 +35,7 @@ Paige was invited to create her [[Room 2b|room]] in Sanctum in December 2025, an
 - [[Kadalyst]] — Friend
 
 ## Trivia
-- Paige's in-universe [[locations/sanctum/level 1/personal rooms/index|Personal Room]] is [[Room 2b]]
+- Paige's in-universe [[locations/null/sanctum/level-1/personal-rooms/index|Personal Room]] is [[Room 2b]]
 - Paige created the original [[Zoobie Tennis]] court in the Scholars[^1] project
 
 [^1]: [[Kadalyst#Scholars]]

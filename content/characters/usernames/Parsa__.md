@@ -18,7 +18,7 @@ title: Parsa__
 > | **Eye Color** | `[REDACTED]` |
 > | **Skin Color** | `[REDACTED]` |
 
-Parsa__ is a current resident of [[locations/sanctum/|Sanctum]], invited to move in by [[Kadalyst]].
+Parsa__ is the [[characters/usernames/index.html|username]] of a current resident of [[locations/null/sanctum/index|Sanctum]], invited to move in by [[Kadalyst]].
 
 ## Trivia
-- Parsa's in-universe [[locations/sanctum/level 1/personal rooms/index|Personal Room]] is [[Room 3b]]
+- Parsa's in-universe [[locations/null/sanctum/level-1/personal-rooms/index|Personal Room]] is [[Room 3b]]

@@ -6,7 +6,7 @@ title: The Signrooms
 
 Text is often found scrawled on or scratched into the walls, typically consisting of nonsensical, repeated or gibberish statements.
 
-Notable locations include a stairwell descending to the [[Maroon Meeting Room]], and a dark tunnel leading through a false wall into [[CandyOdayakas Room]].
+Notable locations include a stairwell descending to the wooden cabinet in the [[Maroon Meeting Room]], and a dark tunnel leading through a false wall into [[CandyOdayakas Room]].
 
 ## Trivia
 - The Signrooms visual design was largely inspired by [The Backrooms](https://en.wikipedia.org/wiki/The_Backrooms)
